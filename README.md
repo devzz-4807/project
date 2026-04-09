@@ -26,14 +26,14 @@ Reading Score
 The objective is to build a machine learning model that predicts student performance based on these features.
 
 ## ⚙️ Project Workflow
-# 1. Data Ingestion
+#  Data Ingestion
 Load dataset from source (CSV or other format)
 
 Handle missing or inconsistent data
 
 Split dataset into training and testing sets
 
-# 2. Data Transformation
+#  Data Transformation
 
 Encoding categorical features (e.g., gender, race)
 
@@ -41,7 +41,7 @@ Feature scaling and normalization
 
 Pipeline creation for preprocessing
 
-# 3. Model Training
+#  Model Training
 
 Multiple machine learning algorithms implemented:
 
@@ -59,7 +59,7 @@ CatBoost
 
 Model comparison based on performance metrics
 
-# 4. Model Evaluation
+#  Model Evaluation
 
 Evaluate models using metrics like:
 
