@@ -5,7 +5,7 @@ This project focuses on predicting student academic performance using machine le
 
 The goal is to analyze how different factors influence student scores and build models that can accurately predict performance.
 
-#🎯 Problem Statement
+# 🎯 Problem Statement
 
 The dataset contains student-related attributes such as:
 
@@ -25,7 +25,7 @@ Reading Score
 
 The objective is to build a machine learning model that predicts student performance based on these features.
 
-#⚙️ Project Workflow
+## ⚙️ Project Workflow
 1. Data Ingestion
 Load dataset from source (CSV or other format)
 
@@ -66,7 +66,7 @@ Mean Absolute Error (MAE)
 Mean Squared Error (MSE)
 
 Select the best-performing model
-#🧠 Key Features
+# 🧠 Key Features
 
 Modular code structure
 
@@ -78,7 +78,7 @@ Clean separation of components
 
 Logging and exception handling implemented
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 Python
 
 NumPy
